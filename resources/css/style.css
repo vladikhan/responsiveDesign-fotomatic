@@ -19,11 +19,14 @@ html {
   background-color: #4a4a4a;
   color: white;
   cursor: pointer;
-  border: 1px solid rgb(131, 215, 108); 
+  border: 1px solid rgb(131, 215, 108);
 }
 
 .image-container {
   overflow: hidden;
+  border: 1px solid rgb(47, 79, 79);
+  margin: 0 2px;
+  border-radius: 7px;
 }
 
 .image-container img {
@@ -139,7 +142,8 @@ header .mobile {
   padding: 0 5rem 2.5rem 5rem;
   border: solid 1px #ffffff;
   border-radius: 8px;
-  background-color: #8a936a;
+  background-color: #5fb1c2;
+  opacity: 0.9;
 }
 
 #sign-up-cta .content {
