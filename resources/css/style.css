@@ -18,6 +18,8 @@ html {
   border-radius: 4px;
   background-color: #4a4a4a;
   color: white;
+  cursor: pointer;
+  border: 1px solid rgb(131, 215, 108); 
 }
 
 .image-container {
@@ -135,9 +137,9 @@ header .mobile {
   top: 171px;
   left: 10%;
   padding: 0 5rem 2.5rem 5rem;
-  border: solid 1px #979797;
-  border-radius: 4px;
-  background-color: #9dc20b;
+  border: solid 1px #ffffff;
+  border-radius: 8px;
+  background-color: #8a936a;
 }
 
 #sign-up-cta .content {
